@@ -1,4 +1,4 @@
-package net.brandonlouf.platinumoremod;
+package com.brandonlouf.platinumoremod;
 
 import java.util.List;
 import java.util.Set;
