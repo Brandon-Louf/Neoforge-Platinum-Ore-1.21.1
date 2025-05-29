@@ -7,7 +7,7 @@ import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
 public class ModItems {
-    // Register for creating items.
+    // Register for mod class.
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(PlatinumOreMod.MOD_ID);
     // Raw Platinum item.
     public static final DeferredItem<Item> RAW_PLATINUM = ITEMS.register("raw_platinum",() -> new Item(new Item.Properties()));

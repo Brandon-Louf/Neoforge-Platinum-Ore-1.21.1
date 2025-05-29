@@ -1,4 +1,6 @@
 {
   "item.platinumoremod.raw_platinum": "Raw Platinum",
-  "item.platinumoremod.platinum_ingot": "Platinum Ingot"
+  "item.platinumoremod.platinum_ingot": "Platinum Ingot",
+
+  "block.platinumoremod.platinum_ore": "Platinum Ore"
 }

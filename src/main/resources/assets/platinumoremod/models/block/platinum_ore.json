@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "platinumoremod:block/bismuth_block"
+  }
+}
