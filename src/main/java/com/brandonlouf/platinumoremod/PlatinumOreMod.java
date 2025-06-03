@@ -68,6 +68,12 @@ public class PlatinumOreMod
         // Adds specified items to the NATURAL_BLOCKS tab.
         if (event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {
             event.accept(ModBlocks.PLATINUM_ORE);
+            event.accept(ModBlocks.DEEPSLATE_PLATINUM_ORE);
+        }
+
+        // Adds specified items to the BUILDING_BLOCKS tab.
+        if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.PLATINUM_BLOCK);
         }
 
     }

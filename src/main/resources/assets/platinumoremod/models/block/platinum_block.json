@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "platinumoremod:block/platinum_ore"
+    "all": "platinumoremod:block/platinum_block"
   }
 }

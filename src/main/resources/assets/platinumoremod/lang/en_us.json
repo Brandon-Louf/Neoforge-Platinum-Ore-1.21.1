@@ -2,5 +2,7 @@
   "item.platinumoremod.raw_platinum": "Raw Platinum",
   "item.platinumoremod.platinum_ingot": "Platinum Ingot",
 
-  "block.platinumoremod.platinum_ore": "Platinum Ore"
+  "block.platinumoremod.platinum_ore": "Platinum Ore",
+  "block.platinumoremod.deepslate_platinum_ore": "Deepslate Platinum Ore",
+  "block.platinumoremod.platinum_block": "Block of Platinum"
 }
