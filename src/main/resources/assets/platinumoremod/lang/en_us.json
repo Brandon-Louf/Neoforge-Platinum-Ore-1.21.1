@@ -4,5 +4,7 @@
 
   "block.platinumoremod.platinum_ore": "Platinum Ore",
   "block.platinumoremod.deepslate_platinum_ore": "Deepslate Platinum Ore",
-  "block.platinumoremod.platinum_block": "Block of Platinum"
+  "block.platinumoremod.platinum_block": "Block of Platinum",
+
+  "creativetab.platinumoremod.platinum_ore": "Platinum Ore"
 }
