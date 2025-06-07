@@ -15,7 +15,7 @@ public class ModCreativeModeTabs {
     // Register for creative mode tabs.
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TAB =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, PlatinumOreMod.MOD_ID);
-
+    // Defines the creative tab. This builds it, names it, allows it to display items, and defines those specific items. (Where the tab appears in the menu not included.)
     public static final Supplier<CreativeModeTab> PLATINUM_ORE_TAB = CREATIVE_MODE_TAB.register("platinum_ore_tab",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.RAW_PLATINUM.get()))
                     .title(Component.translatable("creativetab.platinumoremod.platinum_ore"))
